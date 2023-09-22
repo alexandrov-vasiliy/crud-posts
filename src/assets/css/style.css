@@ -1,0 +1,9 @@
+@import "reset.css";
+
+button {
+    padding: 5px 10px;
+    border-radius: 12px;
+    color: white;
+    width: 120px;
+    font-size: 18px;
+}
